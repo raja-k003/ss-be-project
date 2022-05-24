@@ -1,0 +1,5 @@
+package com.example.ssbeproject.enums;
+
+public enum Roles {
+    ADMIN,SITE_ADMIN,STOCK_MANAGER,PURCHASE,FRESH_INSTALLATION,SERVICE_ENGINEER,SALESPERSON
+}
